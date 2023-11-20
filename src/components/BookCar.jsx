@@ -334,7 +334,7 @@ function BookCar() {
         {/* car info */}
         <div className="booking-modal__car-info">
           <div className="dates-div">
-            <div className="booking-modal_car-info_dates">
+            <div className="booking-modal__car-info__dates">
               <h5>Location & Date</h5>
               <span>
                 <IconMapPinFilled />
@@ -348,7 +348,7 @@ function BookCar() {
               </span>
             </div>
 
-            <div className="booking-modal_car-info_dates">
+            <div className="booking-modal__car-info__dates">
               <span>
                 <IconMapPinFilled />
                 <div>
@@ -361,7 +361,7 @@ function BookCar() {
               </span>
             </div>
 
-            <div className="booking-modal_car-info_dates">
+            <div className="booking-modal__car-info__dates">
               <span>
                 <IconMapPinFilled />
                 <div>
@@ -371,7 +371,7 @@ function BookCar() {
               </span>
             </div>
 
-            <div className="booking-modal_car-info_dates">
+            <div className="booking-modal__car-info__dates">
               <span>
                 <IconMapPinFilled />
                 <div>
@@ -381,7 +381,7 @@ function BookCar() {
               </span>
             </div>
           </div>
-          <div className="booking-modal_car-info_model">
+          <div className="booking-modal__car-info__model">
             <h5>
               <span>Car -</span> {carType}
             </h5>

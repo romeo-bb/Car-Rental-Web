@@ -34,10 +34,10 @@ function Contact() {
                 research, development as well as a learning specialist. Over 15
                 years of experience.
               </p>
-              <a href="/">
+              <a href="/" className="flex">
                 <IconPhone /> &nbsp; +212 777 067 146
               </a>
-              <a href="/">
+              <a href="/" className="flex">
                 <IconMail /> &nbsp; mandalosy13@gmail.com
               </a>
               <a href="/">
