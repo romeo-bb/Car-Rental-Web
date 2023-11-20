@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Car-Rental-Web/static/css/main.9e046968.css",
-    "main.js": "/Car-Rental-Web/static/js/main.5cca405c.js",
+    "main.js": "/Car-Rental-Web/static/js/main.629d21d8.js",
     "static/media/heroes-bg.png": "/Car-Rental-Web/static/media/heroes-bg.71ab9a13d73de3860763.png",
     "static/media/toyota-box.png": "/Car-Rental-Web/static/media/toyota-box.8968332b7901c6bb183c.png",
     "static/media/passat-box.png": "/Car-Rental-Web/static/media/passat-box.c78021e11cf230128bcc.png",
@@ -36,10 +36,10 @@
     "static/media/logo.png": "/Car-Rental-Web/static/media/logo.0ad964cb93ab30cc809d.png",
     "index.html": "/Car-Rental-Web/index.html",
     "main.9e046968.css.map": "/Car-Rental-Web/static/css/main.9e046968.css.map",
-    "main.5cca405c.js.map": "/Car-Rental-Web/static/js/main.5cca405c.js.map"
+    "main.629d21d8.js.map": "/Car-Rental-Web/static/js/main.629d21d8.js.map"
   },
   "entrypoints": [
     "static/css/main.9e046968.css",
-    "static/js/main.5cca405c.js"
+    "static/js/main.629d21d8.js"
   ]
 }
