@@ -1,0 +1,13 @@
+.display-flex {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+@media (max-width: 650px) {
+  .display-flex {
+    justify-content: center;
+  }
+}
+.flex {
+  display: flex;
+}
